@@ -23,6 +23,7 @@ namespace TestAzureDev.Controllers
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();
